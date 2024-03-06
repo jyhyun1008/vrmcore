@@ -7,7 +7,7 @@ let configManager = {};
 
 let defaultConfig = {
     // modifiable parameters
-    'MODEL': 'https://jyhyun1008.github.io/asset/vrm/three-vrm-girl.vrm',
+    'MODEL': 'https://yeojibur.in/vrm/asset/three-vrm-girl.vrm',
     'CUSTOM_MODEL': false,
     'SAVE_SETTING': false,
     'LANGUAGE': "en",
@@ -58,7 +58,7 @@ let defaultConfig = {
     // system parameters
     'VERSION': VERSION,
     'DEV_DATE': DEV_DATE,
-    'DEFAULT_MODEL': 'https://jyhyun1008.github.io/asset/vrm/three-vrm-girl.vrm',
+    'DEFAULT_MODEL': 'https://yeojibur.in/vrm/asset/three-vrm-girl.vrm',
     'ORG_URL': "https://github.com/OpenLive3D",
     'REPO_URL': "https://github.com/OpenLive3D/OpenLive3D.github.io",
     'DOC_URL': "https://github.com/OpenLive3D/OpenLive3D.document",
