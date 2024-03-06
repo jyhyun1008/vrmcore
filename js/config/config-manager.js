@@ -7,12 +7,12 @@ let configManager = {};
 
 let defaultConfig = {
     // modifiable parameters
-    'MODEL': 'https://openlive3d.com/asset/vrm/three-vrm-girl.vrm',
+    'MODEL': 'https://jyhyun1008.github.io/asset/vrm/three-vrm-girl.vrm',
     'CUSTOM_MODEL': false,
     'SAVE_SETTING': false,
     'LANGUAGE': "en",
     'MULTI_THREAD': true,
-    'BG_COLOR': "#00CC00",
+    'BG_COLOR': "#00ff00",
     'BG_UPLOAD': "",
     'CAMERA_FLIP': true,
     'BREATH_FREQUENCY': 0.3,
@@ -58,7 +58,7 @@ let defaultConfig = {
     // system parameters
     'VERSION': VERSION,
     'DEV_DATE': DEV_DATE,
-    'DEFAULT_MODEL': 'https://openlive3d.com/asset/vrm/three-vrm-girl.vrm',
+    'DEFAULT_MODEL': 'https://jyhyun1008.github.io/asset/vrm/three-vrm-girl.vrm',
     'ORG_URL': "https://github.com/OpenLive3D",
     'REPO_URL': "https://github.com/OpenLive3D/OpenLive3D.github.io",
     'DOC_URL': "https://github.com/OpenLive3D/OpenLive3D.document",
